@@ -18,5 +18,5 @@ export default async (client, testing) => {
 	})
 
 	// To delete a command from Discord's api use this:
-	// commands.delete((await commands.fetch()).find(a => a.name === 'command name), '657750030903672832')
+	// commands.delete((await commands.fetch()).find(a => a.name === 'command name'), '657750030903672832')
 }
